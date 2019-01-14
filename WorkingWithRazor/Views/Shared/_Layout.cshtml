@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <style type="text/css">
+        .layout {
+            background-color: lightblue;
+        }
+        .view{
+            border: thin solid black;
+            margin: 10px 0;
+        }
+        
+    </style>
+</head>
+<body>
+    @if(IsSectionDefined("Header")){
+        @RenderSection("Header")
+    } else{ 
+    <h4>This is default Header</h4>
+    }
+    <div class="layout">
+        This is part of the layout
+    </div>
+
+    @RenderSection("Body")
+    <div class="layout">
+        <!--RenderBody()-->
+        This is part of the layout
+    </div>
+
+    @RenderSection("Footer")
+    <div class="layout">
+        This is part of the layout
+    </div>
+
+    @RenderSection("Script", false)
+
+</body>
+</html>

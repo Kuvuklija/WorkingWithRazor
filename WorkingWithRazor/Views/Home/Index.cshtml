@@ -1,0 +1,40 @@
+﻿@model string[]
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <!--section Header{-->
+    <div class="view">
+        @foreach (string str in new[] { "Home", "List", "Edit" })
+        {
+            @Html.ActionLink(str, str, null, new { style = "margin: 5px" })
+        }
+    </div>
+    <!--}-->
+
+@section Body{
+    <div class="view">
+        This is a list of fruit names:
+        @foreach (string name in Model)
+        {
+            <span><b>@name</b></span>
+        }
+    </div>
+}
+
+@section Footer{
+    <div class="view">
+        This is the footer
+    </div>
+}
+</body>
+</html>

@@ -1,0 +1,136 @@
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll.config
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.pdb
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\csc.exe
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\csc.exe.config
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\csc.rsp
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\csi.exe
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\csi.exe.config
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\csi.rsp
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.Managed.Core.targets
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.AppContext.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Collections.Immutable.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Console.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.IO.Compression.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.IO.FileSystem.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.IO.Pipes.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Reflection.Metadata.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.AccessControl.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.Claims.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.Principal.Windows.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.ValueTuple.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Xml.XmlDocument.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Xml.XPath.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\vbc.exe
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\vbc.exe.config
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\vbc.rsp
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\VBCSCompiler.exe
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\roslyn\VBCSCompiler.exe.config
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\Microsoft.Web.Infrastructure.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Helpers.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Webpages.Deployment.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Webpages.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Webpages.Razor.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.xml
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Webpages.xml
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Webpages.Deployment.xml
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Webpages.Razor.xml
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Helpers.xml
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.xml
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.csprojAssemblyReference.cache
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.csproj.CoreCompileInputs.cache
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.csproj.CopyComplete
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.dll
+G:\C#\ASP MVC\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.pdb
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll.config
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.pdb
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\csc.exe
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\csc.exe.config
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\csc.rsp
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\csi.exe
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\csi.exe.config
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\csi.rsp
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.Managed.Core.targets
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.AppContext.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Collections.Immutable.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Console.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.IO.Compression.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.IO.FileSystem.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.IO.Pipes.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Reflection.Metadata.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.AccessControl.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.Claims.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Security.Principal.Windows.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.ValueTuple.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Xml.XmlDocument.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Xml.XPath.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\vbc.exe
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\vbc.exe.config
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\vbc.rsp
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\VBCSCompiler.exe
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\roslyn\VBCSCompiler.exe.config
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\Microsoft.Web.Infrastructure.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Helpers.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Webpages.Deployment.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Webpages.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Webpages.Razor.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.xml
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Webpages.xml
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Webpages.Deployment.xml
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Webpages.Razor.xml
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Helpers.xml
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.xml
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.csprojResolveAssemblyReference.cache
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.dll
+C:\РУСТ\С#\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.pdb
