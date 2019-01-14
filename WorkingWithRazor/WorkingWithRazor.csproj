@@ -111,6 +111,7 @@
     <Content Include="Views\Shared\MyPartial.cshtml" />
     <Content Include="Views\Shared\MyStronglyTypedPartial.cshtml" />
     <Content Include="Views\Shared\Time.cshtml" />
+    <Content Include="Views\My\MyTime.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -121,7 +122,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\My\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

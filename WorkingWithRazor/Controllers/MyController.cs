@@ -9,8 +9,9 @@ namespace WorkingWithRazor.Controllers
     public class MyController : Controller
     {
         [ChildActionOnly]
-        public ActionResult Time(DateTime time){
-            return View(time);
+        public ActionResult MyTime(){
+            ViewBag.Controller = "MyController";
+            return View(DateTime.Now);
         }
     }
 }

@@ -7,5 +7,5 @@
 <h3>This is the /View/Common/List.cshtml view</h3>
 @Html.Partial("MyPartial")
 @Html.Partial("MyStronglyTypedPartial", new[] {"Apple","Orange","Pear"})
-@Html.Action("Time")
-@Html.Action("Time","MyController", new { time=DateTime.Now})
+@Html.Action("Time", new { time=DateTime.Now})
+<!--Html.Action("MyTime", "MyController") do not work  --> 

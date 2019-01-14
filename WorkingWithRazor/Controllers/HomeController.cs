@@ -18,9 +18,10 @@ namespace WorkingWithRazor.Controllers
         }
 
         [ChildActionOnly]
-        public ActionResult Time() {
+        public ActionResult Time(DateTime time) {
             ViewBag.Controller = "Home";
-            return PartialView(DateTime.Now);
+            //return PartialView(DateTime.Now);
+            return PartialView(time);
         }
     }
 }
